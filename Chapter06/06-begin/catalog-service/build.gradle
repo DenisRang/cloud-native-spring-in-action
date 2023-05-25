@@ -25,6 +25,7 @@ ext {
 	set('testcontainersVersion', "1.17.3")
 }
 
+
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'
